@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQliteApp</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_occupation">Enter Occupation</string>
+    <string name="read">read</string>
+    <string name="delete">delete</string>
+    <string name="update">update</string>
+    <string name="save">save</string>
+    <string name="read_all">read all</string>
+</resources>
